@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Prashant Chauhan</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantchauhan1602&label=Profile%20views&color=0e75b6&style=flat" alt="prashantchauhan1602" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prashantchauhan1602" alt="prashantchauhan1602" /></a> </p>
+
+
 
 <p align="left"> <a href="https://twitter.com/rana_prashant16" target="blank"><img src="https://img.shields.io/twitter/follow/rana_prashant16?logo=twitter&style=for-the-badge" alt="rana_prashant16" /></a> </p>
 
